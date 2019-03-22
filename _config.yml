@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -25,18 +25,18 @@ projects:
   exclude:
     forks: true
     projects:
-    # - repo-name
+#     - repo-name
 
 # social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
-  # medium: @your_username
+  facebook: IAmSuyogJadhav
+  linkedin: IAmSuyogJadhav
+  medium: @IAmSuyogJadhav
   # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # youtube: your_username
+  telegram: IAmSuyogJadhav
+  twitter: IAmSuyogJadhav
+  youtube: IAmSuyogJadhav
   # vk: your_username
 
 topics:
