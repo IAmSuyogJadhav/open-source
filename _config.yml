@@ -40,12 +40,28 @@ projects:
   # vk: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+    
+  - name: TensorFlow
+    web_url: https://github.com/topics/tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/tensorflow/tensorflow.png
+  
+  - name: OpenCV
+    web_url: https://github.com/topics/opencv
+    image_url: https://raw.githubusercontent.com/github/explore/433c866c69205a7a46dc73d8b4bbc7c12a6638f6/topics/opencv/opencv.png
 
-  - name: Web design
+  - name: Flask
+    web_url: https://github.com/topics/flask
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flask/flask.png
+  
+  - name: Numpy
+    web_url: https://github.com/topics/Numpy
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Pandas
+    web_url: https://github.com/topics/pandas
+
+  - name: OpenCV
+    web_url: https://github.com/topics/pytorch
+
