@@ -18,9 +18,7 @@ defaults:
 
 projects:
   sort_by: stars
-  # sort_by options:
-  #   - pushed
-  #   - stars
+  # sort_by options: pushed, stars
   limit: 12
   exclude:
     forks: true
@@ -33,9 +31,9 @@ projects:
   # dribbble: your_username
   facebook: IAmSuyogJadhav
   linkedin: IAmSuyogJadhav
-#   medium: @IAmSuyogJadhav
+  medium: @IAmSuyogJadhav
   # stackoverflow: your_user_id
-  telegram: IAmSuyogJadhav
+  # telegram: IAmSuyogJadhav
   twitter: IAmSuyogJadhav
   youtube: IAmSuyogJadhav
   # vk: your_username
